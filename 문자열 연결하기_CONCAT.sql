@@ -1,0 +1,1 @@
+CONCAT(pref_name,city_name)
